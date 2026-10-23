@@ -1,0 +1,12 @@
+{
+  "name": "tasktracking-ai",
+  "owner": { "name": "José Daniel" },
+  "description": "IA orientada a tarefas: skills para montar seu próprio fluxo plan → reply → implement.",
+  "plugins": [
+    {
+      "name": "tarefas-ia",
+      "source": "./",
+      "description": "Gerador de skills de planejamento, decisão e implementação orientadas à task (pt-BR)."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tarefas-ia",
+  "version": "0.1.0",
+  "description": "IA orientada a tarefas: gera suas próprias skills de plan, reply e implement, com a task como fonte da verdade. Primeira versão em pt-BR (sufixo -pt).",
+  "author": {
+    "name": "José Daniel"
+  },
+  "repository": "https://github.com/jsdaniell/TaskTrackingAI",
+  "keywords": [
+    "skills",
+    "planejamento",
+    "tasks",
+    "linear",
+    "clickup",
+    "pt-br"
+  ]
+}
